@@ -9,7 +9,7 @@ Este es mi primer sitio web.  Se Trata de mi autobiografia y algunos aspectos de
 
 - Familia
 
-- Educacion
+- Educación
 
 - Amigos
 
