@@ -3,7 +3,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    background-color: beige;
+    background-color: burlywood;
 }
 
 h1
@@ -13,6 +13,17 @@ h1
     margin-bottom: 10px;
 }
 
+.titulo
+{
+    background-color: #E2B164 ;
+    padding: 30px;
+}
 
 
 
+.familia
+{
+    background-color: lightsalmon;
+    padding: 30px;
+
+}
