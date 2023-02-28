@@ -19,6 +19,17 @@ h1
     padding: 30px;
 }
 
+.educacion
+{
+    background-color: #F8C471;
+    padding: 30px;
+}
+
+.nacimiento
+{
+    background-color: #AAB7B8;
+    padding: 20px;
+}
 
 
 .familia
@@ -26,4 +37,47 @@ h1
     background-color: lightsalmon;
     padding: 30px;
 
+}
+
+.contenedor-imagenes
+{
+    display: flex;
+}
+  
+.contenedor-imagenes{
+    display: flex;
+    justify-content: center;
+}
+.parrafo1{
+    display: flex;
+    justify-content: center;
+}
+.img1{
+    margin-right: 10px;
+}
+
+
+
+.familia1
+{
+    background-color: lightskyblue;
+    padding: 30px;
+}
+
+.Amigos
+{
+    background-color: #EC7063;
+    padding: 20px;
+}
+
+.preicfes
+{
+    background-color: #F7DC6F;
+    padding: 20px;
+}
+
+.Hobbies
+{
+    background-color: aliceblue;
+    padding: 30px;
 }
